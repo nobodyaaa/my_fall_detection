@@ -1,0 +1,6 @@
+train: /kaggle/working/yolov5-master/mydata/images/train
+val: /kaggle/working/yolov5-master/mydata/images/val
+
+nc: 3
+
+names: [ "fall" , "not_fall1","not_fall2" ]
